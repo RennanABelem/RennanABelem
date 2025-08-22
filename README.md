@@ -10,12 +10,6 @@
 Desenvolvedor de Software com 6 anos de experiência, especializado em **Java Spring Boot**.  
 Tenho experiência sólida em desenvolvimento de aplicações corporativas, deploy em **GCP/OpenShift**, uso de **Docker & Linux**, integração de **CI/CD**, autenticação com **Keycloak**, monitoramento com **Datadog & Dynatrace** e um pouco de **Unity C#** como entusiasta.
 
-<div align="left">
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="90" /> 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
-</p>
-</div>
 ---
 
 ## 🛠 Tecnologias & Skills
@@ -69,6 +63,9 @@ Projeto de notícias desenvolvido com JavaScript, voltado para aprendizado e pr�
 Projeto de **pixel survivor** para aprender a lidar com **Unity + C# + PixelArt**, com foco em desenvolvimento de games e shaders. *(em construção)*
 
 ---
+
+<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="150" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
 
 ## 📫 Como Me Encontrar
 **LinkedIn:** [Rennan Amaral Belem](https://www.linkedin.com/in/rennan-amaral-belem-794788a9)
