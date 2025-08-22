@@ -71,5 +71,4 @@ Projeto de **pixel survivor** para aprender a lidar com **Unity + C# + PixelArt*
 ---
 
 ## 📫 Como Me Encontrar
-**GitHub:** [@RennanABelem](https://github.com/RennanABelem)  
 **LinkedIn:** [Rennan Amaral Belem](https://www.linkedin.com/in/rennan-amaral-belem-794788a9)
