@@ -76,7 +76,7 @@ Projeto de **pixel survivor** para aprender a lidar com **Unity + C# + PixelArt*
 
 ---
 
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="180" /> 
+<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="145" /> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
 
 ## 📫 Como Me Encontrar
