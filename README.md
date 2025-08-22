@@ -6,13 +6,16 @@
 
 ---
 
-## 🖥 Sobre Mim
-Desenvolvedor de Software com 6 anos de experiência, especializado em **Java Spring Boot**.  
-Tenho experiência sólida em desenvolvimento de aplicações corporativas, deploy em **GCP/OpenShift**, uso de **Docker & Linux**, integração de **CI/CD**, autenticação com **Keycloak**, monitoramento com **Datadog & Dynatrace** e um pouco de **Unity C#** como entusiasta.
+## 👨‍💻 Sobre mim
+
+🚀 Desenvolvedor de Software desde 2019, especializado em criação de APIs Rest com Java Spring Boot.
+💻 Trabalho com aplicações corporativas, deploys em GCP/OpenShift.
+⚡ Experiência em CI/CD, autenticação com Keycloak e monitoramento com Datadog & Dynatrace.
+🎮 Curto Pixel Art e Jogos, e recentemente tenho me divertido com a Unity C#, dando vida a algumas das minhas ideias.
 
 ---
 
-## 🛠 Tecnologias & Skills
+## 🛠 Tecnologias & Skills - Mais sobre 
 
 #### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -58,13 +61,12 @@ Projeto de notícias desenvolvido com JavaScript, voltado para aprendizado e pr�
 
 ### 🌐 Acesse o link para o site [SubaNews](https://subanews.com.br/) 🌐
 
-
 ### [SubaSurvivors](https://github.com/RennanABelem/subasurvivors)
 Projeto de **pixel survivor** para aprender a lidar com **Unity + C# + PixelArt**, com foco em desenvolvimento de games e shaders. *(em construção)*
 
 ---
 
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="150" /> 
+<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="180" /> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
 
 ## 📫 Como Me Encontrar
