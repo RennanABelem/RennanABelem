@@ -3,10 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/RennanABelem?style=social)](https://github.com/RennanABelem)
 [![GitHub stars](https://img.shields.io/github/stars/RennanABelem?style=social)](https://github.com/RennanABelem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rennan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennan-amaral-belem-794788a9)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GCP](https://img.shields.io/badge/GCP-F05032?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 ---
 
