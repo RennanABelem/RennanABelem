@@ -76,8 +76,8 @@ Projeto de **pixel survivor** para aprender a lidar com **Unity + C# + PixelArt*
 
 ---
 
-<img src="https://media1.tenor.com/m/gxGrBVDTqXMAAAAd/yakuza-kiryu.gif" height="145" /> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=5F51B5&background=FFFFFF00&width=700&lines=public+class+HelloWorld+%7B++++;public+static+void+main(String[]+args)+%7B++++;System.out.println(%22Hello+World!%22);++++;%7D++++;%7D" alt="Java Hello World Animated Typing" />
+# 📊 GitHub Stats
 
-## 📫 Como Me Encontrar
-**LinkedIn:** [Rennan Amaral Belem](https://www.linkedin.com/in/rennan-amaral-belem-794788a9)
+![Rennan's GitHub stats](https://github-stats-alpha.vercel.app/api?username=RennanABelem&cc=000&tc=00FFFF&ic=FF00FF&bc=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanABelem&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)
+
