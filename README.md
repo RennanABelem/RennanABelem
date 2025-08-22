@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-#### 🚀 Desenvolvedor de Software desde 2019, especializado em criação de APIs Rest com Java Spring Boot.
+#### 🚀 Trabalhando como Desenvolvedor desde 2019, especializado em criação de APIs Rest com Java Spring Boot.
 #### 💻 Trabalho com aplicações corporativas, deploys em GCP/OpenShift.
 #### ⚡ Experiência em CI/CD, autenticação com Keycloak e monitoramento com Datadog & Dynatrace.
 #### 🎮 Curto Pixel Art e Jogos, e recentemente tenho me divertido com a Unity C#, dando vida a algumas das minhas ideias.
