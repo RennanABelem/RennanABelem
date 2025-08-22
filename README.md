@@ -40,6 +40,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+#### 📊 Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Datastore](https://img.shields.io/badge/Datastore-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### 📡 Mensageria
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-512D6D?style=for-the-badge&logo=apache&logoColor=white)
+![Google Pub/Sub](https://img.shields.io/badge/PubSub-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
 #### ⚙️ CI/CD & Monitoramento
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
